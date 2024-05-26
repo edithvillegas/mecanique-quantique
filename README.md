@@ -8,5 +8,10 @@ TPs pour le cours de Mécanique Quantique.
 
 Version SageMath: Sage 8.4
 
+![image](https://github.com/edithvillegas/mecanique-quantique/assets/29732178/c39b4ceb-b9ca-45e5-865d-fba5790420bc)
+
+
+
+
 Master Physique et Physique Numérique, Université de Franche-Comté (2018).
 
