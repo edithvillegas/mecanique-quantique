@@ -6,5 +6,7 @@ TPs pour le cours de Mécanique Quantique.
 - Integration Numérique de l'equation de Schrodinger
 - Propagation de paquets d'onde
 
+Version SageMath: Sage 8.4
+
 Master Physique et Physique Numérique, Université de Franche-Comté (2018).
 
